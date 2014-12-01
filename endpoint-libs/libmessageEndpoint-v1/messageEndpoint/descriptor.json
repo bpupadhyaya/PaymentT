@@ -1,13 +1,13 @@
 {
   "files": [
     {
-      "downloadUrl": "/downloads/messageEndpoint/v1/20141201081258/java/1.18.0-rc/equalinformation.com-messageEndpoint-v1-20141201081258-java-1.18.0-rc-sources.jar", 
-      "path": "equalinformation.com-messageEndpoint-v1-20141201081258-java-1.18.0-rc-sources.jar", 
+      "downloadUrl": "/downloads/messageEndpoint/v1/20141201183806/java/1.18.0-rc/equalinformation.com-messageEndpoint-v1-20141201183806-java-1.18.0-rc-sources.jar", 
+      "path": "equalinformation.com-messageEndpoint-v1-20141201183806-java-1.18.0-rc-sources.jar", 
       "type": "source", 
-      "timestamp": "2014-12-01 08:12"
+      "timestamp": "2014-12-01 18:38"
     }, 
     {
-      "path": "equalinformation.com-messageEndpoint-v1-20141201081258-java-1.18.0-rc.jar.properties", 
+      "path": "equalinformation.com-messageEndpoint-v1-20141201183806-java-1.18.0-rc.jar.properties", 
       "type": "android.properties"
     }
   ], 
@@ -675,5 +675,5 @@
   "packagePath": "tools.payment.paypal.testing", 
   "language_version": "1.18.0-rc", 
   "id": "messageEndpoint:v1", 
-  "revision": 20141201081258
+  "revision": 20141201183806
 }

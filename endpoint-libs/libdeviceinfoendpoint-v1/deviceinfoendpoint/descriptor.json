@@ -1,13 +1,13 @@
 {
   "files": [
     {
-      "downloadUrl": "/downloads/deviceinfoendpoint/v1/20141201081253/java/1.18.0-rc/equalinformation.com-deviceinfoendpoint-v1-20141201081253-java-1.18.0-rc-sources.jar", 
-      "path": "equalinformation.com-deviceinfoendpoint-v1-20141201081253-java-1.18.0-rc-sources.jar", 
+      "downloadUrl": "/downloads/deviceinfoendpoint/v1/20141201183800/java/1.18.0-rc/equalinformation.com-deviceinfoendpoint-v1-20141201183800-java-1.18.0-rc-sources.jar", 
+      "path": "equalinformation.com-deviceinfoendpoint-v1-20141201183800-java-1.18.0-rc-sources.jar", 
       "type": "source", 
-      "timestamp": "2014-12-01 08:12"
+      "timestamp": "2014-12-01 18:38"
     }, 
     {
-      "path": "equalinformation.com-deviceinfoendpoint-v1-20141201081253-java-1.18.0-rc.jar.properties", 
+      "path": "equalinformation.com-deviceinfoendpoint-v1-20141201183800-java-1.18.0-rc.jar.properties", 
       "type": "android.properties"
     }
   ], 
@@ -675,5 +675,5 @@
   "packagePath": "tools.payment.paypal.testing", 
   "language_version": "1.18.0-rc", 
   "id": "deviceinfoendpoint:v1", 
-  "revision": 20141201081253
+  "revision": 20141201183800
 }
